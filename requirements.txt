@@ -1,15 +1,4 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyterandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyter
 streamlit
+pandas
 openpyxl
-io
-os
+requests
