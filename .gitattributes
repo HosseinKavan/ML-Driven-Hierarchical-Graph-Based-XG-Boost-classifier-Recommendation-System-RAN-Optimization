@@ -2,3 +2,4 @@ Data/Ardebil[[:space:]]cell[[:space:]]levelKPI[[:space:]]Hourly.csv filter=lfs d
 Data/Ardebil[[:space:]]sector[[:space:]]level.csv filter=lfs diff=lfs merge=lfs -text
 Data/EUTRANINTERFREQNCELL.csv filter=lfs diff=lfs merge=lfs -text
 Data/MoReport_EutranIntraFreqNCell-ardebil.csv filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
